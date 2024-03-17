@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/untitled2.iml" filepath="$PROJECT_DIR$/untitled2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle.iml" />
+>>>>>>> 449b429c16fb2f4b1b95cc2ca2c3ab278a0d5d00
     </modules>
   </component>
 </project>
