@@ -40,6 +40,19 @@ public class Main {
                 System.out.println("Длина диагонали прямоугольника: " + rectangle.getDiagonalLength());
                 break;
             }
+            else if (choise.equalsIgnoreCase("окружность")){
+                System.out.println("Введите радиус окружности: ");
+                double radius = in.nextDouble();
+                System.out.println("Введите угол для поиска площади кругового сектора: ");
+                int degree = in.nextInt();
+
+                Circle circle = new Circle(radius, degree);
+
+                System.out.println("Длина окружности: " + circle.getCircumference());
+                System.out.println("Площадь круга: " + circle.getAreaOfACircle());
+                System.out.println("Площадь сектора круга: " + circle.getAreaOfACircularSector());
+                break;
+            }
             else{
                 System.out.println("Неправильный выбор. Пожалуйста, введите 'прямоугольник' или 'треугольник' или 'окружность'.");
             }
