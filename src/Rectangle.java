@@ -16,7 +16,7 @@ public class Rectangle {
         return 2 * (width + height);
     }
 
-    // vozvrat S
+    // возврат площади
     public double getArea() {
         return width * height;
     }
