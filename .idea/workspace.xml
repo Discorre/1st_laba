@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="beb15810-5a1e-42d7-b9c1-360d3c51121d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rectangle",
+    "git-widget-placeholder": "triangle",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/egori/IdeaProjects/Lab_first",
     "node.js.detected.package.eslint": "true",
@@ -52,7 +52,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
       </set>
     </attachedChunks>
   </component>
@@ -71,6 +71,7 @@
       <workItem from="1710669999915" duration="1498000" />
       <workItem from="1710675429425" duration="309000" />
       <workItem from="1710739253008" duration="1087000" />
+      <workItem from="1710745213581" duration="629000" />
     </task>
     <servers />
   </component>

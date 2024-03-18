@@ -26,6 +26,7 @@ public class Triangle {
         return side1 + side2 + side3;
     }
 
+    // Возврат площади
     public double getArea() {
         double s = getPerimeter() / 2;
         return Math.sqrt(s * (s - side1) * (s - side2) * (s - side3));
