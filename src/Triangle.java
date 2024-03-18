@@ -17,6 +17,7 @@ public class Triangle {
             throw new IllegalArgumentException("Треугольник с такими сторонами не существует.");
         }
 
+
         side1 = s1;
         side2 = s2;
         side3 = s3;
