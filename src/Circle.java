@@ -11,6 +11,8 @@ public class Circle {
         if (d > 360) {
             throw new IllegalArgumentException("Угол должен быть меньше 360 градусов.");
         }
+
+
         this.radius = r;
         this.degree = d;
     }
