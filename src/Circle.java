@@ -3,9 +3,11 @@ public class Circle {
     int degree;
 
     public Circle(double r, int d) {
+        // Проверяем, что все радиус положителен
         if (r <= 0) {
             throw new IllegalArgumentException("Такой окружности не существует.");
         }
+        // Проверяем, что угол сектора меньше 360 градусов
         if (d > 360) {
             throw new IllegalArgumentException("Угол должен быть меньше 360 градусов.");
         }
