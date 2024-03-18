@@ -7,6 +7,7 @@ public class Rectangle {
         if (w <= 0 || h <= 0) {
             throw new IllegalArgumentException("Все стороны прямоугольника должны быть положительными числами.");
         }
+        
         width = w;
         height = h;
     }
