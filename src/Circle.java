@@ -21,6 +21,7 @@ public class Circle {
         return 2 * Math.PI * radius;
     }
 
+    //ploshad
     public double getAreaOfACircle() {
         return Math.PI * radius * radius;
     }
